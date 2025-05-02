@@ -1,4 +1,4 @@
-package main.java.com.microservicio.evaluacion.controller;
+package com.microservicio.evaluacion.controller;
 
 import com.microservicio.evaluacion.model.Evaluacion;
 import com.microservicio.evaluacion.repository.EvaluacionRepository;

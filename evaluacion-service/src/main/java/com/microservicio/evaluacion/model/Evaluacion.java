@@ -1,4 +1,4 @@
-package main.java.com.microservicio.evaluacion.model;
+package com.microservicio.evaluacion.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.Id;

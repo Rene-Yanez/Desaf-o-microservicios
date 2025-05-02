@@ -1,4 +1,4 @@
-package main.java.com.microservicio.evaluacion.repository;
+package com.microservicio.evaluacion.repository;
 
 import com.microservicio.evaluacion.model.Evaluacion;
 import org.springframework.data.jpa.repository.JpaRepository;

@@ -3,11 +3,10 @@ POST http://localhost:8081/estudiantes
 Content-Type: application/json
 
 {
-  "rut": "11111111-1",
-  "nombre": "Kato Bello",
-  "correo": "kato@ubb.cl"
+  "rut": "12345678-9",
+  "nombre": "Juan Pérez",
+  "correo": "juan.perez@email.com"
 }
-
 ###
 GET http://localhost:8081/estudiantes
 

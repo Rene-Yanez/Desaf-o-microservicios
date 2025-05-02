@@ -41,5 +41,6 @@ services:
       SPRING_DATASOURCE_USERNAME: user
       SPRING_DATASOURCE_PASSWORD: pass
 
+
 volumes:
   mysql-data:

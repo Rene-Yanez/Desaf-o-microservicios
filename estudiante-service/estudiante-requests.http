@@ -1,0 +1,15 @@
+### Crear estudiante
+POST http://localhost:8081/estudiantes
+Content-Type: application/json
+
+{
+  "rut": "11111111-1",
+  "nombre": "Kato Bello",
+  "correo": "kato@ubb.cl"
+}
+
+###
+GET http://localhost:8081/estudiantes
+
+###
+GET http://localhost:8081/estudiantes/11111111-1

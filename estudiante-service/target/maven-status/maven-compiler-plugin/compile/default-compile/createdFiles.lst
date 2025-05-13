@@ -1,0 +1,4 @@
+com\microservicio\estudiante\EstudianteServiceApplication.class
+com\microservicio\estudiante\model\Estudiante.class
+com\microservicio\estudiante\controller\EstudianteController.class
+com\microservicio\estudiante\repository\EstudianteRepository.class
